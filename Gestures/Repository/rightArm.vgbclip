@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2015-07-05</Date>
+			<Time>16:03:22.2193747+02:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>rightArm.xef</Clip>
+			<StartFrame>866</StartFrame>
+			<EndFrame>1124</EndFrame>
+			<ID>8b5f897a-b847-4220-a019-8f6ed191620b</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>1011</CurrentFrameStart>
+			<CurrentFrameEnd>1012</CurrentFrameEnd>
+			<AttributeInterpolations>
+				<Items>
+					<Description Name="rightArmProgress_Right" Type="FLOAT" />
+					<Start>995</Start>
+					<End>1012</End>
+					<Method>Bezier</Method>
+				</Items>
+			</AttributeInterpolations>
+			<AttributeKeys>
+				<Items Frame="995">
+					<Items xsi:type="FloatAttribute" Name="rightArmProgress_Right" Value="-1.01811922" />
+				</Items>
+				<Items Frame="1001">
+					<Items xsi:type="FloatAttribute" Name="rightArmProgress_Right" Value="-1.09577525" />
+				</Items>
+				<Items Frame="1006">
+					<Items xsi:type="FloatAttribute" Name="rightArmProgress_Right" Value="1" />
+				</Items>
+				<Items Frame="1011">
+					<Items xsi:type="FloatAttribute" Name="rightArmProgress_Right" Value="0.158433557" />
+				</Items>
+			</AttributeKeys>
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="995">
+				<Items xsi:type="FloatAttribute" Name="rightArmProgress_Right" Value="-1.01811922" />
+			</Items>
+			<Items Frame="996">
+				<Items xsi:type="FloatAttribute" Name="rightArmProgress_Right" Value="-1.126538" />
+			</Items>
+			<Items Frame="997">
+				<Items xsi:type="FloatAttribute" Name="rightArmProgress_Right" Value="-1.21858954" />
+			</Items>
+			<Items Frame="998">
+				<Items xsi:type="FloatAttribute" Name="rightArmProgress_Right" Value="-1.2779063" />
+			</Items>
+			<Items Frame="999">
+				<Items xsi:type="FloatAttribute" Name="rightArmProgress_Right" Value="-1.2881211" />
+			</Items>
+			<Items Frame="1000">
+				<Items xsi:type="FloatAttribute" Name="rightArmProgress_Right" Value="-1.23286653" />
+			</Items>
+			<Items Frame="1001">
+				<Items xsi:type="FloatAttribute" Name="rightArmProgress_Right" Value="-1.09577525" />
+			</Items>
+			<Items Frame="1002">
+				<Items xsi:type="FloatAttribute" Name="rightArmProgress_Right" Value="-0.7804641" />
+			</Items>
+			<Items Frame="1003">
+				<Items xsi:type="FloatAttribute" Name="rightArmProgress_Right" Value="-0.28616932" />
+			</Items>
+			<Items Frame="1004">
+				<Items xsi:type="FloatAttribute" Name="rightArmProgress_Right" Value="0.260047466" />
+			</Items>
+			<Items Frame="1005">
+				<Items xsi:type="FloatAttribute" Name="rightArmProgress_Right" Value="0.731124461" />
+			</Items>
+			<Items Frame="1006">
+				<Items xsi:type="FloatAttribute" Name="rightArmProgress_Right" Value="1" />
+			</Items>
+			<Items Frame="1007">
+				<Items xsi:type="FloatAttribute" Name="rightArmProgress_Right" Value="1.04317534" />
+			</Items>
+			<Items Frame="1008">
+				<Items xsi:type="FloatAttribute" Name="rightArmProgress_Right" Value="0.9453582" />
+			</Items>
+			<Items Frame="1009">
+				<Items xsi:type="FloatAttribute" Name="rightArmProgress_Right" Value="0.741796851" />
+			</Items>
+			<Items Frame="1010">
+				<Items xsi:type="FloatAttribute" Name="rightArmProgress_Right" Value="0.467739254" />
+			</Items>
+			<Items Frame="1011">
+				<Items xsi:type="FloatAttribute" Name="rightArmProgress_Right" Value="0.158433557" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

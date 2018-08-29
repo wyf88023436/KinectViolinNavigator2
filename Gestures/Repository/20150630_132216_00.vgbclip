@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2015-07-04</Date>
+			<Time>21:19:24.1290010+02:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>20150630_132216_00.xef</Clip>
+			<StartFrame>237</StartFrame>
+			<EndFrame>458</EndFrame>
+			<ID>b042470a-c6a5-4446-af0a-d5a2a658bc63</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>331</CurrentFrameStart>
+			<CurrentFrameEnd>332</CurrentFrameEnd>
+			<AttributeInterpolations>
+				<Items>
+					<Description Name="clapProgress" Type="FLOAT" />
+					<Start>315</Start>
+					<End>343</End>
+					<Method>Bezier</Method>
+				</Items>
+			</AttributeInterpolations>
+			<AttributeKeys>
+				<Items Frame="315">
+					<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1" />
+				</Items>
+				<Items Frame="330">
+					<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1" />
+				</Items>
+				<Items Frame="331">
+					<Items xsi:type="FloatAttribute" Name="clapRampaProgress" Value="0" />
+				</Items>
+				<Items Frame="337">
+					<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1" />
+				</Items>
+				<Items Frame="341">
+					<Items xsi:type="FloatAttribute" Name="clapProgress" Value="1" />
+				</Items>
+				<Items Frame="342">
+					<Items xsi:type="FloatAttribute" Name="clapProgress" Value="0.0315776952" />
+				</Items>
+			</AttributeKeys>
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="315">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1" />
+			</Items>
+			<Items Frame="316">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1" />
+			</Items>
+			<Items Frame="317">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1" />
+			</Items>
+			<Items Frame="318">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1" />
+			</Items>
+			<Items Frame="319">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1" />
+			</Items>
+			<Items Frame="320">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1" />
+			</Items>
+			<Items Frame="321">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1" />
+			</Items>
+			<Items Frame="322">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1" />
+			</Items>
+			<Items Frame="323">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1" />
+			</Items>
+			<Items Frame="324">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1" />
+			</Items>
+			<Items Frame="325">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1" />
+			</Items>
+			<Items Frame="326">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1" />
+			</Items>
+			<Items Frame="327">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1" />
+			</Items>
+			<Items Frame="328">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1" />
+			</Items>
+			<Items Frame="329">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1" />
+			</Items>
+			<Items Frame="330">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1" />
+			</Items>
+			<Items Frame="331">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1.02226341" />
+			</Items>
+			<Items Frame="332">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1.07421148" />
+			</Items>
+			<Items Frame="333">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1.13358068" />
+			</Items>
+			<Items Frame="334">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1.17810762" />
+			</Items>
+			<Items Frame="335">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1.18552876" />
+			</Items>
+			<Items Frame="336">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1.13358068" />
+			</Items>
+			<Items Frame="337">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-1" />
+			</Items>
+			<Items Frame="338">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-0.62391144" />
+			</Items>
+			<Items Frame="339">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="-0.0122486791" />
+			</Items>
+			<Items Frame="340">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="0.6055384" />
+			</Items>
+			<Items Frame="341">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="1" />
+			</Items>
+			<Items Frame="342">
+				<Items xsi:type="FloatAttribute" Name="clapProgress" Value="0.0315776952" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

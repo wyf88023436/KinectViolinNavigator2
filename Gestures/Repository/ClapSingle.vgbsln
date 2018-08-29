@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SolutionFile>
+		<Header>
+			<Date>2015-07-04</Date>
+			<Time>21:12:19.9660103+02:00</Time>
+			<Version>1</Version>
+			<Type>Solution</Type>
+			<ID>2eb46d3f-e4b7-4a56-93a3-d6e172dc6c8d</ID>
+		</Header>
+		<Solution_Data>
+			<Files>
+				<Name />
+				<Content>
+					<Items>
+						<File>clapProgress.vgbproj</File>
+					</Items>
+					<Items>
+						<File>clapProgress.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>clapRampaProgress.vgbproj</File>
+					</Items>
+					<Items>
+						<File>clapRampaProgress.a.vgbproj</File>
+					</Items>
+				</Content>
+			</Files>
+		</Solution_Data>
+		<UI_State />
+		<Attributes />
+	</SolutionFile>
+</GestureBuilderFile>

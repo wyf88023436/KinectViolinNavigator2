@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2015-07-05</Date>
+			<Time>16:19:17.3451246+02:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>flyArms.xef</Clip>
+			<StartFrame>466</StartFrame>
+			<EndFrame>767</EndFrame>
+			<ID>cda2e75b-9b49-4b7d-a421-dbe6d18badcc</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>653</CurrentFrameStart>
+			<CurrentFrameEnd>654</CurrentFrameEnd>
+			<AttributeInterpolations>
+				<Items>
+					<Description Name="flyArmsProgress" Type="FLOAT" />
+					<Start>641</Start>
+					<End>660</End>
+					<Method>Bezier</Method>
+				</Items>
+			</AttributeInterpolations>
+			<AttributeKeys>
+				<Items Frame="641">
+					<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="-1" />
+				</Items>
+				<Items Frame="650">
+					<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="-0.5000001" />
+				</Items>
+				<Items Frame="654">
+					<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="1" />
+				</Items>
+				<Items Frame="659">
+					<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="0" />
+				</Items>
+			</AttributeKeys>
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="641">
+				<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="-1" />
+			</Items>
+			<Items Frame="642">
+				<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="-0.992983043" />
+			</Items>
+			<Items Frame="643">
+				<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="-0.9823257" />
+			</Items>
+			<Items Frame="644">
+				<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="-0.964387536" />
+			</Items>
+			<Items Frame="645">
+				<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="-0.9355282" />
+			</Items>
+			<Items Frame="646">
+				<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="-0.8921073" />
+			</Items>
+			<Items Frame="647">
+				<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="-0.83048445" />
+			</Items>
+			<Items Frame="648">
+				<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="-0.747019231" />
+			</Items>
+			<Items Frame="649">
+				<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="-0.638071239" />
+			</Items>
+			<Items Frame="650">
+				<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="-0.5000001" />
+			</Items>
+			<Items Frame="651">
+				<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="-0.189503312" />
+			</Items>
+			<Items Frame="652">
+				<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="0.299145222" />
+			</Items>
+			<Items Frame="653">
+				<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="0.763221145" />
+			</Items>
+			<Items Frame="654">
+				<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="1" />
+			</Items>
+			<Items Frame="655">
+				<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="0.984" />
+			</Items>
+			<Items Frame="656">
+				<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="0.845333338" />
+			</Items>
+			<Items Frame="657">
+				<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="0.6146667" />
+			</Items>
+			<Items Frame="658">
+				<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="0.322666675" />
+			</Items>
+			<Items Frame="659">
+				<Items xsi:type="FloatAttribute" Name="flyArmsProgress" Value="0" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>
